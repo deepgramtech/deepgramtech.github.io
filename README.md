@@ -1,8 +1,6 @@
 ## DeepGram 
 
-You can use the [editor on GitHub](https://github.com/deepgramtech/deepgramtech.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With this project we want to develop a Telegram bot to allow people to run Machine Learning and Deep Learning experiments directly on your phone. The only requirements will be a the [Telegram app](https://telegram.org/apps) (or third party alternatives) installed on your phone/laptop, or just a browser to run [Telegram Web](https://web.telegram.org/).
 
 ### Markdown
 
