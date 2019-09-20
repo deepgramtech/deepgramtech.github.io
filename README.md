@@ -32,8 +32,16 @@ At **[Digital Tree](https://digitaltree.ai), Viale Cembrano, 2, 16147 Genova GE.
 
  Every two weeks, on Wednesday, **from 18 to 20**. 
 
+## Outline
 ```markdown
-Syntax highlighted code block
+The meetups are structured as little hackatons of two hours, where specific (but not really fixed) goals have to be achieved. 
+
+Our goal is mostly _learning by doing_, so we won't focus strictly on the advancement of the project, r
+### Meetup #1
+
+We will:
+- [] Bot that takes an input on Telegram, make a simple operation outside, return the output on Telegram
+ Find a server for the bot
 
 # Header 1
 ## Header 2
