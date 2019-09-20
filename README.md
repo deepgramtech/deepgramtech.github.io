@@ -1,11 +1,18 @@
-## DeepGram 
+# DeepGram 
 
 With this project we want to develop a Telegram bot to allow you running Machine Learning and Deep Learning experiments directly on your phone. 
 The only requirement will be the [Telegram app](https://telegram.org/apps) (or third party alternatives) installed on your phone/laptop, or just a browser to run [Telegram Web](https://web.telegram.org/).
 
+## Why is important?
+
+_Has it ever happened to you to have an idea that you would like to prototype faster?_ I know that is wrong to answer with a question to a question. But what we want is to allow you to implement some Machine Learning algorithm very fast, _on-the-fly_.
+
+You won't need to go home, turn your computer on, open your IDE, copy some model from [Stackoverflow](https://stackoverflow.com/), becoming mad installing packages till you give up your awesome idea and go back to your 9-5 job.
+
+
 ### Meetups
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a community based project.
 
 ```markdown
 Syntax highlighted code block
