@@ -38,9 +38,9 @@ The meetups are structured as little hackatons of two hours, where specific (but
 
 Our goal is mostly _learning by doing_, so we won't focus strictly on the advancement of the project at each meeting, but on learning as much as we can. The following is a outline of the content of the next three meetups:
 
-```markdown
 
 ### Meetup #1
+```markdown
 
 We will:
 
@@ -49,10 +49,8 @@ We will:
 - Find a server to host the bot
 
 ```
-
-```markdown
-
 ### Meetup #2
+```markdown
 
 We will:
 
@@ -62,9 +60,8 @@ We will:
 
 ```
 
-```markdown
-
 ### Meetup #3
+```markdown
 
 We will: 
 
