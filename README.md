@@ -40,47 +40,31 @@ Our goal is mostly _learning by doing_, so we won't focus strictly on the advanc
 
 
 ### Meetup #1
-```markdown
 
-We will:
+> We will:
 
-- Make a Telegram bot that takes an input on Telegram, make a simple operation outside, return the output on Telegram
+> - Make a Telegram bot that takes an input on Telegram, make a simple operation outside, return the output on Telegram
 
-- Find a server to host the bot
+> - Find a server to host the bot
 
-```
+
 ### Meetup #2
-```markdown
 
-We will:
+> We will:
 
-- Make the bot to use a pretrained simple Neural Network to Classify Dog and Cats
+> - Make the bot to use a pretrained simple Neural Network to Classify Dog and Cats
 
-- Make a DeepDream Telegram Version (input an image -> return a DeepDreamed image)
+> - Make a [DeepDream](https://en.wikipedia.org/wiki/DeepDream) Telegram Version (input an image -> return a DeepDreamed image)
 
-```
+
 
 ### Meetup #3
-```markdown
 
-We will: 
+> We will: 
 
-- Make a Telegram Channel with Datasets that can be used. First example: MNIST.
+> - Make a Telegram Channel with Datasets that can be used. First example: [MNIST](http://yann.lecun.com/exdb/mnist/).
  
-- Make the program to train a classifier on MNIST.
+> - Make the program to train a classifier on [MNIST](http://yann.lecun.com/exdb/mnist/).
 
-- Make the program to train an autoencoder on MNIST.
+> - Make the program to train an autoencoder on [MNIST](http://yann.lecun.com/exdb/mnist/).
 
-```
-
-
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deepgramtech/deepgramtech.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
