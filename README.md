@@ -70,4 +70,4 @@ Our goal is mostly _learning by doing_, so we won't focus strictly on the advanc
 
 ## Questions?
 
-Feel free to ask at [this](antonio.marsella95@gmail.com) or [this email](antoniomarsella@deepgram.tech).
+Feel free to ask at [this](mailto:antonio.marsella95@gmail.com?subject=[DeepGram Meetups]) or [this email](mailto:antoniomarsella@deepgram.tech?subject=[DeepGram Meetups]).
