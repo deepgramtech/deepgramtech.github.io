@@ -1,8 +1,9 @@
 ## DeepGram 
 
-With this project we want to develop a Telegram bot to allow people to run Machine Learning and Deep Learning experiments directly on your phone. The only requirements will be a the [Telegram app](https://telegram.org/apps) (or third party alternatives) installed on your phone/laptop, or just a browser to run [Telegram Web](https://web.telegram.org/).
+With this project we want to develop a Telegram bot to allow you running Machine Learning and Deep Learning experiments directly on your phone. 
+The only requirement will be the [Telegram app](https://telegram.org/apps) (or third party alternatives) installed on your phone/laptop, or just a browser to run [Telegram Web](https://web.telegram.org/).
 
-### Markdown
+### Meetups
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
