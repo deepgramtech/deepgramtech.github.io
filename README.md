@@ -21,7 +21,7 @@ You just need to open your Telegram app and click the right buttons.
 No leaders here. Just passionate people desiring to learn, and _to create_. We organize **MeetUps** to make this real. If you are around Genova (Italy), come and build with us. 
 
 ### Where?
-<img align="right" width="100" height="100" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/dtblack.png?raw=true">
+<a href="https://digitaltree.ai"><img align="right" width="100" height="100" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/dtblack.png?raw=true">
 
 At **[Digital Tree](https://digitaltree.ai), Viale Cembrano, 2, 16147 Genova GE.**
 
