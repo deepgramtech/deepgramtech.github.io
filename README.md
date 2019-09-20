@@ -10,7 +10,10 @@ _Has it ever happened to you to have an idea that you would like to prototype fa
 You won't need to go home, turn your computer on, open your IDE, copy some model from [Stackoverflow](https://stackoverflow.com/), becoming mad installing packages till you give up your awesome idea and go back to your 9-5 job.
 
 You just need to open your Telegram app and click the right buttons. 
-![alt text](https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/telegrambot.png?raw=true)
+<p align="center">
+  <img width="338" height="262" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/telegrambot.png?raw=true">
+</p>
+
 ### Meetups
 
 This is a community based project.
