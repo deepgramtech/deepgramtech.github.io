@@ -33,32 +33,52 @@ At **[Digital Tree](https://digitaltree.ai), Viale Cembrano, 2, 16147 Genova GE.
  Every two weeks, on Wednesday, **from 18 to 20**. 
 
 ## Outline
-```markdown
+
 The meetups are structured as little hackatons of two hours, where specific (but not really fixed) goals have to be achieved. 
 
-Our goal is mostly _learning by doing_, so we won't focus strictly on the advancement of the project, r
+Our goal is mostly _learning by doing_, so we won't focus strictly on the advancement of the project at each meeting, but on learning as much as we can. The following is a outline of the content of the next three meetups:
+
+```markdown
+
 ### Meetup #1
 
 We will:
-- [] Bot that takes an input on Telegram, make a simple operation outside, return the output on Telegram
- Find a server for the bot
 
-# Header 1
-## Header 2
-### Header 3
+- Make a Telegram bot that takes an input on Telegram, make a simple operation outside, return the output on Telegram
 
-- Bulleted
-- List
+- Find a server to host the bot
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```markdown
+
+### Meetup #2
+
+We will:
+
+- Make the bot to use a pretrained simple Neural Network to Classify Dog and Cats
+
+- Make a DeepDream Telegram Version (input an image -> return a DeepDreamed image)
+
+```
+
+```markdown
+
+### Meetup #3
+
+We will: 
+
+- Make a Telegram Channel with Datasets that can be used. First example: MNIST.
+ 
+- Make the program to train a classifier on MNIST.
+
+- Make the program to train an autoencoder on MNIST.
+
+```
+
+
+
+
 
 ### Jekyll Themes
 
