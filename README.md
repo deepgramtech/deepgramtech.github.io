@@ -23,14 +23,14 @@ No leaders here. Just passionate people desiring to learn, and _to create_. We o
 ### Where?
 <img align="right" width="100" height="100" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/dtblack.png?raw=true">
 
-At [Digital Tree](https://digitaltree.ai), Viale Cembrano, 2, 16147 Genova GE.
+At **[Digital Tree](https://digitaltree.ai), Viale Cembrano, 2, 16147 Genova GE.**
 
 
 
 
 ### When?
 
- Every two weeks, on Wednesday, from 18 to 20. 
+ Every two weeks, on Wednesday, **from 18 to 20**. 
 
 ```markdown
 Syntax highlighted code block
