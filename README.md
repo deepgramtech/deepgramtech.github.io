@@ -41,7 +41,7 @@ Our goal is mostly _learning by doing_, so we won't focus strictly on the advanc
 
 ### Meetup #1
 
-> We will:
+We will:
 
 > - Make a Telegram bot that takes an input on Telegram, make a simple operation outside, return the output on Telegram
 
@@ -50,7 +50,7 @@ Our goal is mostly _learning by doing_, so we won't focus strictly on the advanc
 
 ### Meetup #2
 
-> We will:
+We will:
 
 > - Make the bot to use a pretrained simple Neural Network to Classify Dog and Cats
 
@@ -60,7 +60,7 @@ Our goal is mostly _learning by doing_, so we won't focus strictly on the advanc
 
 ### Meetup #3
 
-> We will: 
+We will: 
 
 > - Make a Telegram Channel with Datasets that can be used. First example: [MNIST](http://yann.lecun.com/exdb/mnist/).
  
