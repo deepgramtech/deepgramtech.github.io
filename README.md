@@ -68,3 +68,6 @@ Our goal is mostly _learning by doing_, so we won't focus strictly on the advanc
 
 > - Make the program to train an autoencoder on [MNIST](http://yann.lecun.com/exdb/mnist/).
 
+## Questions?
+
+Feel free to ask at [this](antonio.marsella95@gmail.com) or [this email](antoniomarsella@deepgram.tech).
