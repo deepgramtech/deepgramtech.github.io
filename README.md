@@ -19,7 +19,7 @@ You just need to open your Telegram app and click the right buttons.
 Jokes apart, it will look something like:
 
 <p align="center">
-  <img width="640" height="700" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/telegif.gif?raw=true">
+  <img width="542" height="620" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/telegif.gif?raw=true">
 </p>
 
 while, somewhere else, something like the following is been creating:
