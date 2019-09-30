@@ -16,6 +16,18 @@ You just need to open your Telegram app and click the right buttons.
   <img width="338" height="262" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/telegrambot.png?raw=true">
 </p>
 
+Jokes apart, it will look something like:
+
+<p align="center">
+  <img width="640" height="700" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/telegif.gif?raw=true">
+</p>
+
+while, somewhere else, something like the following is been creating:
+
+<p align="center">
+  <img width="700" height="320" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/modelgif.gif">
+</p>
+
 ## This is a community based project.
 
 No leaders here. Just passionate people desiring to learn, and _to create_. We organize **MeetUps** to make this real. If you are around Genova (Italy), come and build with us. 
