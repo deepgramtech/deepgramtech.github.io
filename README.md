@@ -31,6 +31,9 @@ At **[Digital Tree](https://digitaltree.ai), Viale Cembrano, 2, 16147 Genova GE.
 ### When?
 
  Every two weeks, on Wednesday, **from 18 to 20**. 
+ 
+ To be up to date, sync with our [Google Calendar](https://calendar.google.com/calendar/embed?src=i8m9ckbo5l0o38bc98ocui6mp8%40group.calendar.google.com&ctz=Europe%2FRome
+): [here](https://calendar.google.com/calendar/embed?src=i8m9ckbo5l0o38bc98ocui6mp8%40group.calendar.google.com&ctz=Europe%2FRome) you will find any upcoming event.
 
 ## Outline
 
