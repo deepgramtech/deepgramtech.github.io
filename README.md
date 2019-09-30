@@ -25,7 +25,7 @@ Jokes apart, it will look something like:
 while, somewhere else, something like the following is been creating:
 
 <p align="center">
-  <img width="700" height="320" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/modelgif.gif?raw=true">
+  <img width="700" height="300" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/modelgif.gif?raw=true">
 </p>
 
 ## This is a community based project.
