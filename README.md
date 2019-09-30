@@ -85,4 +85,4 @@ We will:
 
 ## Questions?
 
-Feel free to ask at antonio.marsella95@gmail.com or antoniomarsella@deepgram.tech, in the [Telegram Group] or privately at [@marsantonio](t.me/marsantonio).
+Feel free to ask at antonio.marsella95@gmail.com or antoniomarsella@deepgram.tech, in the [Telegram Group](t.me/hackademiaitaly) or privately at [@marsantonio](t.me/marsantonio).
