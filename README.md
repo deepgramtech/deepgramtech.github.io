@@ -19,7 +19,7 @@ You just need to open your Telegram app and click the right buttons.
 Jokes apart, it will look something like:
 
 <p align="center">
-  <img width="542" height="620" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/telegif.gif?raw=true">
+  <img width="542" height="590" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/telegif.gif?raw=true">
 </p>
 
 while, somewhere else, something like the following is been creating:
@@ -85,4 +85,4 @@ We will:
 
 ## Questions?
 
-Feel free to ask at antonio.marsella95@gmail.com or antoniomarsella@deepgram.tech, in the [Telegram Group](t.me/hackademiaitaly) or privately at [@marsantonio](t.me/marsantonio).
+Feel free to ask at antonio.marsella95@gmail.com or antoniomarsella@deepgram.tech, in the [Telegram Group](https://t.me/hackademiaitaly) or privately at [@marsantonio](https://t.me/marsantonio).
