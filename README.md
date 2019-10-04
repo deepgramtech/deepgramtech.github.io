@@ -4,6 +4,9 @@ With this project we want to develop a Telegram bot to allow you running Machine
 
 The only requirement will be the [Telegram app](https://telegram.org/apps) (or third party alternatives) installed on your phone/laptop, or just a browser to run [Telegram Web](https://web.telegram.org/).
 
+# ---> [Book your ticket for free!](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-75304514831) <---
+## 9th of October 2019 @[Digital Tree - Innovation Hub](https://digitaltree.ai)
+
 ## Why is it important?
 
 _Has it ever happened to you to have an idea that you would like to prototype faster?_ I know that is wrong to answer with a question to a question. But what we want is to allow you to implement some Machine Learning algorithm very fast, _on-the-fly_.
