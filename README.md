@@ -45,7 +45,7 @@ At **[Digital Tree](https://digitaltree.ai), Viale Cembrano, 2, 16147 Genova GE.
 
 ### When?
 
-## The first day will be on Wednesday 9th of October 2019, from 18 to 20.
+## [The first day will be on Wednesday 9th of October 2019, from 18 to 20.](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-75304514831)
 
  Every two weeks, on Wednesday, **from 18 to 20**. 
  
@@ -59,7 +59,7 @@ The meetups are structured as little hackatons of two hours, where specific (but
 Our goal is mostly _learning by doing_, so we won't focus strictly on the advancement of the project at each meeting, but on learning as much as we can. The following is a outline of the content of the next three meetups:
 
 
-### Meetup #1
+### [Meetup #1](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-75304514831)
 
 We will:
 
