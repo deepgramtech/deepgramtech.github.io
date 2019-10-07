@@ -11,4 +11,9 @@
       "language":"Python",
       "topic":"bot"
    }
+   "link3":{
+    "title":"Where to host Telegram Bots",
+     "link":"https://github.com/python-telegram-bot/python-telegram-bot/wiki/Where-to-host-Telegram-Bots",
+     "language":"Python",
+     "topic":"server"
 }
