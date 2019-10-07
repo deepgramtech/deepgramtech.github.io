@@ -1,1 +1,12 @@
-"Learn to build your first bot in Telegram with Python":"https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/"
+"bot":{
+{
+  "title":'Learn to build your first bot in Telegram with Python',
+  "link":'https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/'
+  "language":'Python'
+},
+{
+  "title":'Code snippets,
+  "link":'https://github.com/python-telegram-bot/python-telegram-bot/wiki/Code-snippets',
+  "language":'Python'
+}
+}
