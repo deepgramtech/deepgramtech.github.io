@@ -60,7 +60,7 @@ Our goal is mostly _learning by doing_, so we won't focus strictly on the advanc
 
 ### [Meetup #0](https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/firstbotgif.gif?raw=true)
 
-<a href="https://digitaltree.ai"><img align="center" width="438" height="510" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/firstbotgif.gif?raw=true">
+<a href="https://digitaltree.ai"><img align="center" width="438" height="510" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/giffirstbot.gif?raw=true">
 
 ### [Meetup #1](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-76718881239)
 
