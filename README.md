@@ -6,7 +6,7 @@ The only requirement will be the [Telegram app](https://telegram.org/apps) (or t
 
 
 # ---> [Book your ticket for the next event](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-76718881239) <---
-## 16th of October 2019 @[Digital Tree - Innovation Hub](https://digitaltree.ai)
+## Thursday 17th of October 2019 @[Digital Tree - Innovation Hub](https://digitaltree.ai)
 
 ## Why is it important?
 
@@ -45,9 +45,9 @@ At **[Digital Tree](https://digitaltree.ai), Viale Cembrano, 2, 16147 Genova GE.
 
 ### When?
 
-## [The next meetup will be on Wednesday 16th of October 2019, from 18 to 20.](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-76718881239)
+## [The next meetup will be on *Thrusday* 17th of October 2019, from 18 to 20.](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-76718881239)
 
- Every two weeks, on Wednesday, **from 18 to 20**. 
+ Every two weeks, usually on *Wednesday*, **from 18 to 20**. 
  
  To be up to date, sync with our [Google Calendar](https://calendar.google.com/calendar/embed?src=i8m9ckbo5l0o38bc98ocui6mp8%40group.calendar.google.com&ctz=Europe%2FRome
 ): [here](https://calendar.google.com/calendar/embed?src=i8m9ckbo5l0o38bc98ocui6mp8%40group.calendar.google.com&ctz=Europe%2FRome) you will find any upcoming event.
