@@ -43,10 +43,9 @@ At **[Digital Tree](https://digitaltree.ai), Viale Cembrano, 2, 16147 Genova GE.
 
 
 
-
 ### When?
 
-## [The first day will be on Wednesday 9th of October 2019, from 18 to 20.](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-75304514831)
+## [The next meetup will be on Wednesday 16th of October 2019, from 18 to 20.](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-76718881239)
 
  Every two weeks, on Wednesday, **from 18 to 20**. 
  
@@ -59,14 +58,17 @@ The meetups are structured as little hackatons of two hours, where specific (but
 
 Our goal is mostly _learning by doing_, so we won't focus strictly on the advancement of the project at each meeting, but on learning as much as we can. The following is a outline of the content of the next three meetups:
 
+### [Meetup #0](https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/firstbotgif.gif?raw=true)
 
-### [Meetup #1](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-75304514831)
+<a href="https://digitaltree.ai"><img align="right" width="600" height="500" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/firstbotgif.gif?raw=true">
+
+### [Meetup #1](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-76718881239)
 
 We will:
 
-> - Make a Telegram bot that takes an input on Telegram, make a simple operation outside, return the output on Telegram
+> - Make a Telegram bot to perform classification on MNIST dataset
 
-> - Find a server to host the bot
+> - Learn more about the [Python library Telepot](https://telepot.readthedocs.io/en/latest/)
 
 
 ### Meetup #2
