@@ -5,8 +5,8 @@ With this project we want to develop a Telegram bot to allow you running Machine
 The only requirement will be the [Telegram app](https://telegram.org/apps) (or third party alternatives) installed on your phone/laptop, or just a browser to run [Telegram Web](https://web.telegram.org/).
 
 
-# ---> [Can't you be here? Join our Google Meet!](https://hangouts.google.com/call/UlHnZ4DYIJ4HuM8CdV0TAEEI) <---
-## 9th of October 2019 @[Digital Tree - Innovation Hub](https://digitaltree.ai)
+# ---> [Book your ticket for the next event](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-76718881239) <---
+## 16th of October 2019 @[Digital Tree - Innovation Hub](https://digitaltree.ai)
 
 ## Why is it important?
 
