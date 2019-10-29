@@ -5,8 +5,8 @@ With this project we want to develop a Telegram bot to allow you running Machine
 The only requirement will be the [Telegram app](https://telegram.org/apps) (or third party alternatives) installed on your phone/laptop, or just a browser to run [Telegram Web](https://web.telegram.org/).
 
 
-# ---> [Book your ticket for the next event](https://www.eventbrite.it/e/biglietti-deepgram2-creiamo-un-bot-per-il-deep-learning-77723576309) <---
-## Wednesday 23rd of October 2019 @[Digital Tree - Innovation Hub](https://digitaltree.ai)
+# ---> [Book your ticket for the next event](https://www.eventbrite.it/e/biglietti-deepgram3-creiamo-un-bot-per-il-deep-learning-79124909735) <---
+## Wednesday 30th of October 2019 @[Digital Tree - Innovation Hub](https://digitaltree.ai)
 
 ## Why is it important?
 
@@ -45,7 +45,7 @@ At **[Digital Tree](https://digitaltree.ai), Viale Cembrano, 2, 16147 Genova GE.
 
 ### When?
 
-## [The next meetup will be on *Wednesday* 23rd of October 2019, from 18 to 20.](https://www.eventbrite.it/e/biglietti-deepgram2-creiamo-un-bot-per-il-deep-learning-77723576309)
+## [The next meetup will be on *Wednesday* 30th of October 2019, from 18 to 20.](https://www.eventbrite.it/e/biglietti-deepgram3-creiamo-un-bot-per-il-deep-learning-79124909735)
 
  Every two weeks, usually on *Wednesday*, **from 18 to 20**. 
  
@@ -81,7 +81,7 @@ We will:
 
 
 
-### Meetup #3
+### [Meetup #3](https://www.eventbrite.it/e/biglietti-deepgram3-creiamo-un-bot-per-il-deep-learning-79124909735)
 
 We will: 
 
