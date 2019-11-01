@@ -64,7 +64,7 @@ After setting the basis at Meetup#0, we went further experimenting with several 
 
 Several basic functions have been implemented already, to become confident with the API (QR code generator, simple image processing stuffs...) and now the goal is to go further and to dig into the real Data Science.
 
-Currently we are at[Meetup#4](https://www.eventbrite.it/e/biglietti-deepgram4-creiamo-un-bot-per-il-deep-learning-79733094833).
+Currently we are at [Meetup#4](https://www.eventbrite.it/e/biglietti-deepgram4-creiamo-un-bot-per-il-deep-learning-79733094833).
 
 ### Discussion
 
