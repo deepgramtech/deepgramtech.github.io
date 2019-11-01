@@ -5,8 +5,8 @@ With this project we want to develop a Telegram bot to allow you running Machine
 The only requirement will be the [Telegram app](https://telegram.org/apps) (or third party alternatives) installed on your phone/laptop, or just a browser to run [Telegram Web](https://web.telegram.org/).
 
 
-# ---> [Book your ticket for the next event](https://www.eventbrite.it/e/biglietti-deepgram3-creiamo-un-bot-per-il-deep-learning-79124909735) <---
-## Wednesday 30th of October 2019 @[Digital Tree - Innovation Hub](https://digitaltree.ai)
+# ---> [Book your ticket for the next event](https://www.eventbrite.it/e/biglietti-deepgram4-creiamo-un-bot-per-il-deep-learning-79733094833) <---
+## Wednesday 6th of November 2019 @[Digital Tree - Innovation Hub](https://digitaltree.ai)
 
 ## Why is it important?
 
@@ -45,7 +45,7 @@ At **[Digital Tree](https://digitaltree.ai), Viale Cembrano, 2, 16147 Genova GE.
 
 ### When?
 
-## [The next meetup will be on *Wednesday* 30th of October 2019, from 18 to 20.](https://www.eventbrite.it/e/biglietti-deepgram3-creiamo-un-bot-per-il-deep-learning-79124909735)
+## [The next meetup will be on *Wednesday* 6th of November 2019, from 18 to 20.](https://www.eventbrite.it/e/biglietti-deepgram4-creiamo-un-bot-per-il-deep-learning-79733094833)
 
  Every two weeks, usually on *Wednesday*, **from 18 to 20**. 
  
@@ -58,38 +58,27 @@ The meetups are structured as little hackatons of two hours, where specific (but
 
 Our goal is mostly _learning by doing_, so we won't focus strictly on the advancement of the project at each meeting, but on learning as much as we can. The following is a outline of the content of the next three meetups:
 
-### [Meetup #0](https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/firstbotgif.gif?raw=true)
-
+### [Meetup#0](https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/firstbotgif.gif?raw=true)
+After setting the basis at Meetup#0, we went further experimenting with several Python frameworks for Telegram bots, like [Telepot](https://github.com/nickoala/telepot) (that is no longer maintained) and [PyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) (that we are currently using).
 <a href="https://digitaltree.ai"><img align="center" width="438" height="510" src="https://github.com/deepgramtech/deepgramtech.github.io/blob/master/img/giffirstbot.gif?raw=true">
 
-### [Meetup #1](https://www.eventbrite.it/e/biglietti-deepgram1-creiamo-un-bot-per-il-deep-learning-76718881239)
+Several basic functions have been implemented already, to become confident with the API (QR code generator, simple image processing stuffs...) and now the goal is to go further and to dig into the real Data Science.
 
-We will:
+Currently we are at[Meetup#4](https://www.eventbrite.it/e/biglietti-deepgram4-creiamo-un-bot-per-il-deep-learning-79733094833).
 
-> - Make a Telegram bot to perform classification on MNIST dataset
+### Discussion
 
-> - Learn more about the [Python library Telepot](https://telepot.readthedocs.io/en/latest/)
+One of the goal of this project is to have a Telegram channel with datasets that are accessible to everyone. However, Telegram allows a user to send only till around 50 MB to a bot. On the other hand, a user can upload till around 1.4 GB on a Telegram Channel. For this reason, we created a function that forward messages over a certain size to a Telegram channel, in order to store it there.
 
+Nevertheless, 1.4GB could be not enough for a dataset (dealing with pictures or videos it is easy to occupy much more). So we thought to work in the following way:
 
-### [Meetup #2](https://www.eventbrite.it/e/biglietti-deepgram2-creiamo-un-bot-per-il-deep-learning-77723576309)
+- Command to upload a dataset
+- Send it 
+- If the size is more than 1.4 GB send back a script to the sender to split the original file in smaller size ones
+- Send all of the resulting files.
 
-We will:
+If you have better ideas, please contact us in the [Telegram Group](https://t.me/hackademiaitaly). 
 
-> - Make the bot to use a pretrained simple Neural Network to Classify Dog and Cats
-
-> - Make a [DeepDream](https://en.wikipedia.org/wiki/DeepDream) Telegram Version (input an image -> return a DeepDreamed image)
-
-
-
-### [Meetup #3](https://www.eventbrite.it/e/biglietti-deepgram3-creiamo-un-bot-per-il-deep-learning-79124909735)
-
-We will: 
-
-> - Make a Telegram Channel with Datasets that can be used. First example: [MNIST](http://yann.lecun.com/exdb/mnist/).
- 
-> - Make the program to train a classifier on [MNIST](http://yann.lecun.com/exdb/mnist/).
-
-> - Make the program to train an autoencoder on [MNIST](http://yann.lecun.com/exdb/mnist/).
 
 ## Questions?
 
